@@ -1,0 +1,2 @@
+# TechnicalAnalysis.
+Assignment
